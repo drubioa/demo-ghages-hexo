@@ -1,6 +1,6 @@
 # Demo Blog on GitHub Pages with Hexo
 
-[](docs/demo-blog.gif)
+![demo](docs/demo-blog.gif)
 
 This demo consists in a example of blog made with Hexo and deploy in GitHub Pages with plugin `hexo-deployer-gi`.
 
@@ -15,4 +15,4 @@ To install this project in your local machine make de command `npm install` in t
 
 Next to start this project in your local machine do `hexo server`. This command running blog in your local machine in `https:\\localhost:400` address.
 
-## [License](./LICENSE.md) 📄
+## [License](LICENSE.md) 📄
