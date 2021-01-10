@@ -7,7 +7,7 @@ This demo consists in a example of blog made with Hexo and deploy in GitHub Page
 ## Starting 🚀
 To use this project first clone in your local machine.
 
-### Pre-requisitos 📋
+### Requirements 📋
 You should be installed [Node](https://nodejs.org/) and [Git](https://git-scm.com/). 
 
 ### Installation 🔧
