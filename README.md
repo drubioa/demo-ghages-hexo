@@ -1,6 +1,6 @@
 # Demo Blog on GitHub Pages with Hexo
 
-[](./docs/demo-blog.gif)
+[](docs/demo-blog.gif)
 
 This demo consists in a example of blog made with Hexo and deploy in GitHub Pages with plugin `hexo-deployer-gi`.
 
